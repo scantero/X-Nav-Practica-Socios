@@ -1,0 +1,65 @@
+{
+	"messages": [
+		{
+			"author": "Nerea",
+			"picture": "imgs/nerea.png",
+			"title": "Nuevo juego Megadrive! PAPRIUM (beat 'em up)",
+			"content": "Quizás muchos lo supierais ya, pero para los que no: ayer se presentó el trailer (estilo anuncio de inicio los 90) y la fecha de lanzamiento (fall 2017), junto a algunos detalles del juego. Está creado por los autores dePier Solar, un RPG de Megadrive lanzado en 2013. PAPRIUM es un beat em up, al estilo Streets of Rage, que mezcla elementos RPG. Con varios modos de juego, cooperativo para 2 jugadores, opción de salvar hasta 3 partidas ... y todo metido en un cartucho de 80 MEG. Os dejo el video.",
+			"date": "19/03/2017 12:12",
+			"video": "https://www.youtube.com/embed/f3CTqTzkgZQ"
+		},
+		{
+			"author": "Oter",
+			"picture": "imgs/oter.png",
+			"title": "Tres personas...",
+			"content": "...durmiendo en la misma cama.",
+			"date": "15/3/2017 17:55",
+			"img": "imgs/3personas.jpeg"
+		},
+		{
+			"author": "MCris",
+			"picture": "imgs/mcris.jpg",
+			"title": "MADRID GAMING EXPERIENCE: CRÓNICA DE FIN DE SEMANA...",
+			"content": "Sin duda, una conferencia que tiene de todo para todos. Es posible que las críticas hacia la falta de exclusividades (no hay puesto de Sony por lo que no se pueden probar Horizon, Final Fantasy XV o The Last Guardian) tengan parte de razón pero la sensación general es de participar en un evento donde se puede interactuar con el público, con la tecnología y lo que es más importante, con las personas. Si tuviera que analizarlo como un juego, esta feria se llevaría un notable alto. ",
+			"date": "20/2/2017 10:07"
+		},
+		{
+			"author": "Cristina",
+			"picture": "imgs/crisng.png",
+			"title": "Chuck Norris anuncia su videojuego para móviles!!!!",
+			"content": "La desarrolladora Flaregames acaba de anunciar su colaboración con el actor para desarrollar Nonstop Chuck Norris, disponible para iOS y Android.",
+			"date": "27/01/2017 20:45",
+			"img": "imgs/chucknorris.jpg"
+		},
+		{
+			"author": "Celia",
+			"picture": "imgs/celia.jpg",
+			"title": " Until Dawn: Rush of Blood. Imprescindible y en espero de la segunda parte",
+			"content": "Creo que no hay un juego mejor para las PS VR, me encanta la ambientacion, el sonido espectacular, una gran variedad de escenarios y enemigos que hacen que siendo un juego algo corto no te decepcione, la sensacion de inmersion y de movimiento con los mandos move es soberbia, la verdad que te sientes dentro desde el minuto uno. Lo he dado a probar a muchas personas y todas han alucinado y se han asustado bastante. Solo puedo recomendar su compra 100% es lo que mejor demuestra lo que podremos vivir gracias a la realidad virtual en un futuro cercano y estoy deseando que saquen la segunda parte, que muy seguramente se superara en mucho.",
+			"date": "15/01/2017 11:34",
+			"img": "imgs/until-dawn-rush-blood_2.jpg"
+		},
+		{
+			"author": "MCris",
+			"picture": "imgs/mcris.jpg",
+			"title": "Pues...",
+			"content": "Ojalá tuviese algo interesante que decir.",
+			"date": "02/01/2017 13:53"
+		},
+		{
+			"author": "Sandra",
+			"picture": "imgs/sandra.jpg",
+			"title": "Lanzado Ace Combat 3 International Edition",
+			"content": "Por fin han lanzado la traducción fan de Ace Combat 3, que llegó a occidente mutilada de arriba abajo, con menos misiones y sin historia (!!). Este juego salió en la época dorada de Namco (y del soft japonés) así que corred insensatos!",
+			"date": "28/12/2016 14:22",
+			"img": "imgs/ace_combat_3.jpg"
+		},
+		{
+			"author": "Oter",
+			"picture": "imgs/oter.png",
+			"title": "No Man's Sky... Herejía!!!! Quemadlo en la hoguera!!!!",
+			"content": "La sagrada inquisición a través de Monseñor Gamer Frustrado, acusa a 'no man's sky' de se hacer tratos con el diablo!! Gamer Frustrado: Este juego no guia al jugador!!! Éste engendro del demonio no dice hacia donde ir a cada paso!! Solo el demonio puede crear algo así!!! Turba enfurecida con antorchas: Si!!! Quemadlo!!! Quemadlo ya!!! Gamer frustrado: Ésta abominación dice no terminar, dice que no tiene fin!!! Solo dios es infinito!! Este juego miente!! Si, tiene fin, son solo 18 quintillones de planetas!!!!! Turba enfurecida con antorchas: Basta!!! No queremos saber más!!! Quemadlo!! Por el amor de dios, enciendan la hoguera!!! Gamer Frustrado: Escuchad mis fieles!! No es acaso bueno dios con nosotros!? Cuando pedimos buenos juegos, no nos obsequia con el FIFA o Call of Duty!? Entonces porqué aceptar este regalo del infierno!!? No lo veais!! No lo jugueis!! Aborrecedlo sin mirarlo!!!! Turba enfurecida con antorchas: (arrancandose el pelo y gimiendo) Lo aborrecemos señor!!!!! Lo odiamos!!!! No lo queremos conocer jamas señor!!! Gamer Frustrado: Este juego fomenta la vagancia en nuestro niños!!!!! No se trata acaso de vagar por planetas enteros!? No se trata de vagar y vagar, por sistemas planetarios!?? Y no se trata, en síntesis, de vagar por galaxias enteras!!???? Turba enfurecida con antorchas: Basta ya!!! A Quemarlo!!! A Destruirlo!!! Ahoraaaaa!!!! Entre tanto, sobre la pira que comenzaba a arder, atado de pies y manos a un robusto tronco, No Man's Sky miraba al firmamento y sonreía. Miraba fijamente al cielo estrellado, pero parecía ser una mirada mas allá al espectro de luz visible, mas allá del mecánico tintineo de las estrellas. Diriase que miraba hacia otros mundos.",
+			"date": "28/12/2016 14:22"
+		}
+	]
+}

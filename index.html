@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>SOCIOS!</title>
+  <!-- Tell the browser to be responsive to screen width -->
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+  <link rel="stylesheet" href="css/AdminLTE.min.css">
+  <link rel="stylesheet" href="css/socios.css">
+  <link rel="stylesheet" href="css/skin-blue.min.css">
+  <!-- JavaScript -->
+  <script type="text/javascript" src="js/jquery.min.js"></script>
+  <script src="js/socios.js"></script>
+</head>
+
+<body class="hold-transition skin-blue sidebar-mini">
+<div class="wrapper">
+  <!-- Main Header -->
+  <header class="main-header">
+    <!-- Logo up on the left-->
+    <a href="" class="logo hidden-xs" >
+      <img id="logo" src="imgs/logo_transp_peq.png"></img></br>
+    </a>
+    <!-- Header Navbar -->
+    <nav class="navbar navbar-static-top" role="navigation">
+      <!-- Sidebar toggle button-->
+      <a href="#" id="toggleMenuButton" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+        <span class="sr-only">Toggle navigation</span>
+      </a>
+      <!-- Navbar Right Menu -->
+      <div class="navbar-custom-menu">
+        <ul class="nav navbar-nav">
+          <!-- User Account Menu -->
+          <li class="dropdown user user-menu">
+            <!-- Menu Toggle Button -->
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+              <!-- The user image in the navbar-->
+              <img src="imgs/sandra.jpg" class="user-image" alt="User Image">
+              <!-- hidden-xs hides the username on small devices so only the image appears. -->
+              <span class="hidden-xs">Sandra</span>
+            </a>
+            <ul class="dropdown-menu">
+              <!-- The user image in the menu -->
+              <li class="user-header">
+                <img src="imgs/sandra.jpg" class="img-circle" alt="User Image">
+                <p>
+                  Sandra Cantero - Junior Developer
+                  <small>Member since March. 2017</small>
+                </p>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </nav>
+  </header>
+  <!-- Left side column. contains the logo and sidebar -->
+  <aside class="main-sidebar">
+
+    <!-- sidebar: style can be found in sidebar.less -->
+    <section class="sidebar">
+
+      <!-- Sidebar Menu -->
+      <ul class="sidebar-menu">
+        <li class="header">CHOOSE ONE:</li>
+        <li id="timeline"><a href=""><i class="fa fa-users"></i><span>Timeline</span></a></li>
+        <li id="update">
+          <a href=""><i class="fa fa-refresh"></i>
+            <span>Update Timeline <span id="msgPendientes" class="label label-success"></span>
+          </a>
+          <div id="nota-informativa"></div>
+        </li>
+        <li id="mytimeline"><a href=""><i class="fa fa-user"></i> <span>My own timeline</span></a></li>
+      </ul>
+      <!-- /.sidebar-menu -->
+    </section>
+    <!-- /.sidebar -->
+  </aside>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Main content -->
+    <section class="content">
+      <div class="box box-success">
+        <div class="fa fa-github-alt" id="seeCode">
+          <a href="http://github.com"> Want to see the code?</a>
+        </div>
+        <img id="logoIni" src="imgs/logo.png"></img>
+        <!-- Our Chat box in here-->
+      </div>
+      <!-- /.box (chat box) -->
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+
+  <!-- Main Footer -->
+  <footer class="main-footer">
+    <!-- To the right -->
+    <div class="pull-right hidden-xs">
+      Anything you want
+    </div>
+    <!-- Default to the left -->
+    <strong>Copyright &copy; 2017 <a href="#">Sandra Cantero</a>.</strong> All rights reserved.
+  </footer>
+
+
+  <div class="control-sidebar-bg"></div>
+</div>
+<!-- ./wrapper -->
+
+<script src="js/bootstrap.min.js"></script>
+<script src="js/app.min.js"></script>
+
+</body>
+</html>
