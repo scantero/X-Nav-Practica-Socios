@@ -155,8 +155,8 @@ $(document).ready(function(){
 				.done(function(data){
 					var idBoton = "#"+ filejson + "-mostrarMsg-"+ numMsg;
 					$(idBoton).remove(); //al mostrar el mensaje eliminamos el botón
-					var msg =  "</br>" + data.messages[numMsg];
-					html = "<p class='mostrarMsg' align='justify'>" + msg.content + "</p>";
+					var msg =  data.messages[numMsg];
+					html = "<p class='mostrarMsg' align='justify'></br>" + msg.content + "</p>";
 					if (msg.img){
 						html += "<img class='mostrarMsg' src='" + msg.img + "' id='picture'>";
 					}
